@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.44f1
+CRC: 2954148652
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sword-dlc
+      Dependencies: {}
+    Info_1:
+      Name: model-b
+      Dependencies:
+        Dependency_0: model-a
+    Info_2:
+      Name: model-a
+      Dependencies: {}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Potion Bottle Mana
+* source:	https://sketchfab.com/3d-models/potion-bottle-mana-050564e54722411e9d137cd078e0efaa
+* author:	Elliot_the_prince (https://sketchfab.com/Elliot_the_prince)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Potion Bottle Mana" (https://sketchfab.com/3d-models/potion-bottle-mana-050564e54722411e9d137cd078e0efaa) by Elliot_the_prince (https://sketchfab.com/Elliot_the_prince) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

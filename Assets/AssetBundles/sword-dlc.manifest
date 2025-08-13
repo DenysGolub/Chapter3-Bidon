@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.44f1
+CRC: 1643657086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80ca2899c52d35abee9a1a951beadf87
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5785a96fba37ab47fdec9d56e33cd0e1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 43573f83a22e245f84605054824444ed
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Import/Dydder_Astro_UTTVM_Sword/Dydder_Astro_UTTVM_Sword.prefab
+Dependencies: []
